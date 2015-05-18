@@ -1,0 +1,8 @@
+Enter power: Enter starting number: Starting number: 7
+=====================================
+Sad cycle:
+Power: 7
+Basenumber: 7
+Numbers in cycle: 6
+=====================================
+5345158 2350099 9646378 8282107 5018104 2191663 

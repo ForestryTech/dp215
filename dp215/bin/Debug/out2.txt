@@ -1,0 +1,8 @@
+Enter power: Enter starting number: Starting number: 14
+=====================================
+Sad cycle:
+Power: 3
+Basenumber: 14
+Numbers in cycle: 1
+=====================================
+371 

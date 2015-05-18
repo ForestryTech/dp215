@@ -1,0 +1,25 @@
+Enter power: Enter starting number: Starting number: 6
+=====================================
+Sad cycle:
+Power: 6
+Basenumber: 6
+Numbers in cycle: 10
+=====================================
+383890
+1057187
+513069
+594452
+570947
+786460
+477201
+239459
+1083396
+841700
+Enter power: Enter starting number: Starting number: 6
+=====================================
+Sad cycle:
+Power: 6
+Basenumber: 6
+Numbers in cycle: 10
+=====================================
+383890 1057187 513069 594452 570947 786460 477201 239459 1083396 841700 

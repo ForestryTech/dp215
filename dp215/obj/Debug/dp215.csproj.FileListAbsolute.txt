@@ -1,1 +1,6 @@
 c:\users\jim\documents\visual studio 2013\Projects\dp215\dp215\bin\Debug\dp215.exe.config
+c:\users\jim\documents\visual studio 2013\Projects\dp215\dp215\bin\Debug\dp215.exe
+c:\users\jim\documents\visual studio 2013\Projects\dp215\dp215\bin\Debug\dp215.pdb
+c:\users\jim\documents\visual studio 2013\Projects\dp215\dp215\obj\Debug\dp215.csprojResolveAssemblyReference.cache
+c:\users\jim\documents\visual studio 2013\Projects\dp215\dp215\obj\Debug\dp215.exe
+c:\users\jim\documents\visual studio 2013\Projects\dp215\dp215\obj\Debug\dp215.pdb
